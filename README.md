@@ -83,3 +83,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
+
+![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
+
