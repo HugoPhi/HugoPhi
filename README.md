@@ -23,33 +23,20 @@
 </p>
 
 ## My Latest Projects
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/HugoPhi/your-latest-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Your Latest Project" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/HugoPhi/another-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="Another Project" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/HugoPhi/project-three">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="Project Three" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/HugoPhi/project-four">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="Project Four" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <a href="https://github.com/HugoPhi/your-latest-project" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Your Latest Project" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/HugoPhi/another-project" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="Another Project" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/HugoPhi/project-three" style="width: 45%; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="Project Three" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/HugoPhi/project-four" style="width: 45%; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="Project Four" style="width: 100%;" />
+  </a>
+</div>
 
 ## Recently Coding in...
 <p align="center">
@@ -76,6 +63,3 @@
 ## Contribution History
 ![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
----
-
-⭐️ From [HugoPhi](https://github.com/HugoPhi)
