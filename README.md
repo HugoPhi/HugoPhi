@@ -1,7 +1,9 @@
 
 ![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
-# Hi there, I'm HugoPhi! 👋
+<div align="center">
+  <h1>Hi there, I'm HugoPhi! 👋</h1>
+</div>
 
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
 
