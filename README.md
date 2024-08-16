@@ -1,3 +1,6 @@
+
+![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
+
 # Hi there, I'm HugoPhi! 👋
 
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
@@ -64,8 +67,5 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-## Contribution History
-![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
 
