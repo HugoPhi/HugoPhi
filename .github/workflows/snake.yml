@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # 定期运行
+  schedule: 
     - cron: "0 0 * * *" # 每天午夜运行一次
-  workflow_dispatch: # 手动触发
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -13,15 +13,18 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
+      - name: Create output directory
+        run: mkdir -p output
+
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: HugoPhi
-          outputs: dist/snake.svg
+          outputs: output/github-contribution-grid-snake.svg
 
-      - name: Push Snake to the `output` branch
+      - name: Push to gh-pages branch
         uses: crazy-max/ghaction-github-pages@v2
         with:
-          target_branch: main
-          build_dir: dist
+          target_branch: gh-pages
+          build_dir: output
           github_token: ${{ secrets.GITHUB_TOKEN }}
