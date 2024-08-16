@@ -56,23 +56,33 @@
 
 ## Languages and Tools:
 <p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fpga_logo.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white" alt="Python" height="40">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
+  <img src="https://img.shields.io/badge/TensorFlow-F7B500?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="40">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
+  <img src="https://img.shields.io/badge/Clang-003E54?style=flat-square&logo=clang&logoColor=white" alt="Clang" height="40">
+  <img src="https://img.shields.io/badge/Verilog-004B77?style=flat-square&logo=verilog&logoColor=white" alt="Verilog" height="40">
+  <img src="https://img.shields.io/badge/GNU-000000?style=flat-square&logo=gnu&logoColor=white" alt="GNU" height="40">
 </p>
 
+
+
+
+---
+
+<br></details>
+<img src="https://imgur.com/rilHVxA.png"/>
 
 
 
