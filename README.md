@@ -24,17 +24,17 @@
 
 ## My Latest Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <a href="https://github.com/HugoPhi/your-latest-project" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Your Latest Project" style="width: 100%;" />
+  <a href="https://github.com/HugoPhi/gestureDataCollection" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Gesture Data Collection" style="width: 100%;" />
   </a>
-  <a href="https://github.com/HugoPhi/another-project" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="Another Project" style="width: 100%;" />
+  <a href="https://github.com/HugoPhi/NCOTLabs" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="NCOT Labs" style="width: 100%;" />
   </a>
-  <a href="https://github.com/HugoPhi/project-three" style="width: 45%; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="Project Three" style="width: 100%;" />
+  <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="IEEE754 RISCV ASM" style="width: 100%;" />
   </a>
-  <a href="https://github.com/HugoPhi/project-four" style="width: 45%; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="Project Four" style="width: 100%;" />
+  <a href="https://github.com/HugoPhi/SIMCPU-RISCV" style="width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="SIMCPU RISCV" style="width: 100%;" />
   </a>
 </div>
 
@@ -63,3 +63,6 @@
 ## Contribution History
 ![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+⭐️ From [HugoPhi](https://github.com/HugoPhi)
