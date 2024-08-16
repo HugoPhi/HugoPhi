@@ -23,14 +23,33 @@
 </p>
 
 ## My Latest Projects
-<p align="center">
-  <a href="https://github.com/HugoPhi/your-latest-project">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Your Latest Project" />
-  </a>
-  <a href="https://github.com/HugoPhi/another-project">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="Another Project" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/HugoPhi/your-latest-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Your Latest Project" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/HugoPhi/another-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="Another Project" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/HugoPhi/project-three">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="Project Three" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/HugoPhi/project-four">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="Project Four" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## Recently Coding in...
 <p align="center">
