@@ -24,7 +24,7 @@
 
 ## My Latest Projects
 <table>
-  <tr>
+  <tr style="background-color: transparent;">
     <td width="50%">
       <a href="https://github.com/HugoPhi/gestureDataCollection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Gesture Data Collection" style="width: 100%;" />
@@ -36,7 +36,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: transparent;">
     <td width="50%">
       <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="IEEE754 RISCV ASM" style="width: 100%;" />
@@ -75,6 +75,4 @@
 ## Contribution History
 ![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
----
 
-⭐️ From [HugoPhi](https://github.com/HugoPhi)
