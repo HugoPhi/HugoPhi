@@ -27,4 +27,4 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: output
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.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 }}
