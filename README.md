@@ -25,10 +25,10 @@
 ## My Latest Projects
 <p align="center">
   <a href="https://github.com/HugoPhi/your-latest-project">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=your-latest-project" alt="Your Latest Project" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=https://github.com/HugoPhi/gestureDataCollection" alt="Your Latest Project" />
   </a>
   <a href="https://github.com/HugoPhi/another-project">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=another-project" alt="Another Project" />
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=https://github.com/HugoPhi/NCOTLabs" alt="Another Project" />
   </a>
 </p>
 
