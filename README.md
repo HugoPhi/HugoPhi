@@ -23,20 +23,32 @@
 </p>
 
 ## My Latest Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <a href="https://github.com/HugoPhi/gestureDataCollection" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Gesture Data Collection" style="width: 100%;" />
-  </a>
-  <a href="https://github.com/HugoPhi/NCOTLabs" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="NCOT Labs" style="width: 100%;" />
-  </a>
-  <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="IEEE754 RISCV ASM" style="width: 100%;" />
-  </a>
-  <a href="https://github.com/HugoPhi/SIMCPU-RISCV" style="width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="SIMCPU RISCV" style="width: 100%;" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HugoPhi/gestureDataCollection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Gesture Data Collection" style="width: 100%;" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HugoPhi/NCOTLabs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="NCOT Labs" style="width: 100%;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="IEEE754 RISCV ASM" style="width: 100%;" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HugoPhi/SIMCPU-RISCV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="SIMCPU RISCV" style="width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Recently Coding in...
 <p align="center">
