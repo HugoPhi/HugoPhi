@@ -19,7 +19,7 @@
 ## GitHub Stats & Languages
 <p align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true" alt="HugoPhi's GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ## My Latest Projects
