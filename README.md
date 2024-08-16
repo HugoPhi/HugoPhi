@@ -72,11 +72,9 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
   <img src="https://img.shields.io/badge/Clang-003E54?style=flat-square&logo=clang&logoColor=white" alt="Clang" height="40">
-  <img src="https://img.shields.io/badge/Verilog-004B77?style=flat-square&logo=verilog&logoColor=white" alt="Verilog" height="40">
+  <img src="https://img.shields.io/badge/FPGA-6D2C91?style=flat-square&logo=fpga&logoColor=white" alt="FPGA" height="40">
   <img src="https://img.shields.io/badge/GNU-000000?style=flat-square&logo=gnu&logoColor=white" alt="GNU" height="40">
 </p>
-
-
 
 
 ---
