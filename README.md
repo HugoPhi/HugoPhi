@@ -84,5 +84,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 
-![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HugoPhi/HugoPhi.github.io/blob/output/github-contribution-grid-snake.svg)
+
 
