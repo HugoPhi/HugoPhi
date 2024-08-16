@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # 计划任务
+  schedule: # 定期运行
     - cron: "0 0 * * *" # 每天午夜运行一次
-  workflow_dispatch: # 手动运行
+  workflow_dispatch: # 手动触发
 
 jobs:
   build:
@@ -19,9 +19,9 @@ jobs:
           github_user_name: HugoPhi
           outputs: dist/snake.svg
 
-      - name: Push Snake
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push Snake to the `output` branch
+        uses: crazy-max/ghaction-github-pages@v2
         with:
+          target_branch: output
+          build_dir: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: gh-pages
