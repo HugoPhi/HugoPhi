@@ -1,6 +1,3 @@
-
-![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=KaiTi&weight=900&size=30&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+HugoPhi!+%F0%9F%91%8B" alt="Hi there, I'm HugoPhi! 👋">
@@ -179,12 +176,20 @@
 </details>
 
 
-## Recent Contributions
+## Recent Contributions & Commit History 🐍
+
+### Activity Graph 📈
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=0000FF&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
   </a>
 </div>
+
+### Contribution Snake 🐍
+<div align="center">
+  <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 
 <br>
