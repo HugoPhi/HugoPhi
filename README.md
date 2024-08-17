@@ -1,9 +1,12 @@
 
 ![Snake animation](https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <h1>Hi there, I'm HugoPhi! 👋</h1>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=KaiTi&weight=900&size=30&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+HugoPhi!+%F0%9F%91%8B" alt="Hi there, I'm HugoPhi! 👋">
+  </a>
+</h1>
+
 
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
 
@@ -28,32 +31,17 @@
 </p>
 
 ## My Latest Projects
-<table>
-  <tr style="background-color: transparent;">
-    <td width="50%">
-      <a href="https://github.com/HugoPhi/gestureDataCollection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection" alt="Gesture Data Collection" style="width: 100%;" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HugoPhi/NCOTLabs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs" alt="NCOT Labs" style="width: 100%;" />
-      </a>
-    </td>
-  </tr>
-  <tr style="background-color: transparent;">
-    <td width="50%">
-      <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM" alt="IEEE754 RISCV ASM" style="width: 100%;" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HugoPhi/SIMCPU-RISCV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV" alt="SIMCPU RISCV" style="width: 100%;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="Gesture Data Collection"></a>
+  <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="IEEE754 RISCV ASM"></a>
+  <a href="https://github.com/HugoPhi/SIMCPU-RISCV"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="SIMCPU RISCV"></a>
+  <a href="https://github.com/HugoPhi/NCOTLabs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="NCOT Labs"></a>
+</p>
+
+<a href="https://github.com/HugoPhi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FAF3DD?style=for-the-badge&logoColor=4B3621&logo=repo"/></a>
+
+
 
 
 ## Languages and Tools:
@@ -82,7 +70,21 @@
 ## Recent Contributions
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=KaiTi&weight=900&size=30&pause=1000&color=F71D23&width=435&lines=%E8%A1%8C%E5%8D%83%E9%87%8C%EF%BC%8C%E8%87%B4%E5%B9%BF%E5%A4%A7%E3%80%82" alt="行千里，致广大。">
+  </a>
+</p>
+
+
 
 <br></details>
 <img src="https://imgur.com/rilHVxA.png"/>
