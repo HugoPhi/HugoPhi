@@ -50,7 +50,7 @@
 
 
 ## Languages and Tools:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white" alt="Python" height="40">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
