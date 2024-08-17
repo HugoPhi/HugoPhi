@@ -28,8 +28,8 @@
 
 ## GitHub Stats & Languages
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=false" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=donut&hide_border=false" alt="Top Languages" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&border_color=000000" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
 </p>
 
 
@@ -193,6 +193,20 @@
 ### 🐍 Contribution Snake 
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 👥 My Friends
+<div align="left">
+  <a href="https://github.com/SimonYoungCN">
+    <img src="https://github.com/SimonYoungCN.png" width="50" height="50" alt="Friend 1" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  </a>
+  <a href="https://github.com/potatoQi">
+    <img src="https://github.com/potatoQi.png" width="50" height="50" alt="Friend 2" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  </a>
+  <a href="https://github.com/ssy-small-white">
+    <img src="https://github.com/ssy-small-white.png" width="50" height="50" alt="Friend 3" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  </a>
+  <!-- 继续添加其他朋友 -->
 </div>
 
 
