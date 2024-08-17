@@ -14,7 +14,7 @@
 
 ## I'm a Computer Science Student!
 
-<img src="./assets/Bl3b08M5pL.png" align="left" width="270" style="border-radius: 10px; margin: 0 15px 15px 0;"/>
+<img src="./assets/Bl3b08M5pL.png" align="right" width="270" style="border-radius: 10px; margin: 0 15px 15px 0;"/>
 
 - **🎓 I am a Computer Science and Technology student dedicated to:**
   - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR).  ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
