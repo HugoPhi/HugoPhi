@@ -176,16 +176,16 @@
 </details>
 
 
-## Recent Contributions & Commit History 🐍
+## Recent Contributions & Commit History Snake
 
-### Activity Graph 📈
+### 📈 Activity Graph 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=0000FF&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
   </a>
 </div>
 
-### Contribution Snake 🐍
+### 🐍 Contribution Snake 
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
