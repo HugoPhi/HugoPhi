@@ -39,13 +39,14 @@
 ## My Latest Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="Gesture Data Collection"></a>
-  <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="IEEE754 RISCV ASM"></a>
-  <a href="https://github.com/HugoPhi/SIMCPU-RISCV"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="SIMCPU RISCV"></a>
-  <a href="https://github.com/HugoPhi/NCOTLabs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&bg_color=FAF3DD&title_color=4B3621&hide_border=true&icon_color=D69E2E&show_icons=false" alt="NCOT Labs"></a>
+  <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&show_icons=true" alt="Gesture Data Collection"></a>
+  <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&show_icons=true" alt="IEEE754 RISCV ASM"></a>
+  <a href="https://github.com/HugoPhi/SIMCPU-RISCV"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&show_icons=true" alt="SIMCPU RISCV"></a>
+  <a href="https://github.com/HugoPhi/NCOTLabs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&show_icons=true" alt="NCOT Labs"></a>
 </p>
 
-<a href="https://github.com/HugoPhi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FAF3DD?style=for-the-badge&logoColor=4B3621&logo=repo"/></a>
+<a href="https://github.com/HugoPhi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo"/></a>
+
 
 
 ## Languages and Tools:
@@ -179,7 +180,12 @@
 
 
 ## Recent Contributions
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=0000FF&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
+  </a>
+</div>
+
 
 <br>
 <br>
