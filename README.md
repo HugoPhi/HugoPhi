@@ -31,9 +31,10 @@
 
 ## GitHub Stats & Languages
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true" alt="HugoPhi's GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=false" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=donut&hide_border=false" alt="Top Languages" />
 </p>
+
 
 ## My Latest Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
