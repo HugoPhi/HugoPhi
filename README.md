@@ -197,17 +197,20 @@
 
 ## 👥 My Friends
 <div align="left">
-  <a href="https://github.com/SimonYoungCN">
-    <img src="https://github.com/SimonYoungCN.png" width="50" height="50" alt="Friend 1" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  <a href="https://github.com/SimonYoungCN" target="_blank">
+    <img src="https://github.com/SimonYoungCN.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
-  <a href="https://github.com/potatoQi">
-    <img src="https://github.com/potatoQi.png" width="50" height="50" alt="Friend 2" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  <a href="https://github.com/potatoQi" target="_blank">
+    <img src="https://github.com/potatoQi.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
-  <a href="https://github.com/ssy-small-white">
-    <img src="https://github.com/ssy-small-white.png" width="50" height="50" alt="Friend 3" style="border-radius:50%; margin: 10px; border: 2px solid black;">
+  <a href="https://github.com/ssy-small-white" target="_blank">
+    <img src="https://github.com/ssy-small-white.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
   <!-- 继续添加其他朋友 -->
 </div>
+
+
+
 
 
 
