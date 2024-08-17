@@ -14,6 +14,8 @@
 
 ## I'm a Computer Science Student!
 
+<img src="https://pic.616pic.com/ys_bnew_img/00/13/69/jcK9d5RfcJ.jpg" align="right" width="250" style="border-radius: 10px; margin: 0 15px 15px 0;"/>
+
 - 🎓 I am a Computer Science and Technology student dedicated to:
   - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR).  ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
   - 🛠️ Robotics and Ubuntu systems, where I have a deep interest and ongoing exploration.  ![Robotics Icon](https://img.shields.io/badge/Robotics-2E8B57?style=flat&logo=ubuntu&logoColor=white)
