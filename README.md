@@ -197,7 +197,7 @@
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 👥 My Friends
+## 👥 My Best Friends
 <div align="left">
   <a href="https://github.com/SimonYoungCN" target="_blank">
     <img src="https://github.com/SimonYoungCN.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
