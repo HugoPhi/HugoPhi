@@ -225,14 +225,14 @@
 <br>
 <br>
 
----
 
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=KaiTi&weight=900&size=30&pause=1000&color=F71D23&width=435&lines=%E8%A1%8C%E5%8D%83%E9%87%8C%EF%BC%8C%E8%87%B4%E5%B9%BF%E5%A4%A7%E3%80%82" alt="行千里，致广大。">
   </a>
 </p>
-
+-->
 
 
 <br></details>
