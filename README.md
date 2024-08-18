@@ -12,7 +12,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
 
 
-## I'm a Computer Science Student!
+## 🎯 I'm a Computer Science Student!
 
 <img src="./assets/Bl3b08M5pL.png" align="right" width="270" style="border-radius: 10px; margin: 0 15px 15px 0;"/>
 
@@ -28,14 +28,14 @@
   - 📚 Further deepen my expertise in my current research areas.
 
 
-## GitHub Stats & Languages
+## ✨ GitHub Stats & Languages
 <p align="center">
   <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&border_color=000000" alt="HugoPhi's GitHub Stats" />
   <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=jupyter%20notebook&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
 </p>
 
 
-## My Latest Projects
+## 💻 My Latest Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="Gesture Data Collection"></a>
@@ -53,7 +53,7 @@
 
 
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white" alt="Python" height="40">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
@@ -64,19 +64,23 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40">
+  <img src="https://custom-icon-badges.demolab.com/badge/FPGA-6D2C91?style=flat-square&logo=cpu&logoColor=white" alt="FPGA" height="40">
+
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
-  <img src="https://img.shields.io/badge/Clang-003E54?style=flat-square&logo=clang&logoColor=white" alt="Clang" height="40">
-  <img src="https://img.shields.io/badge/FPGA-6D2C91?style=flat-square&logo=fpga&logoColor=white" alt="FPGA" height="40">
+  <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
+  <img src="https://img.shields.io/badge/RISC--V-001E2B?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" height="40">
+
   <img src="https://img.shields.io/badge/GNU-000000?style=flat-square&logo=gnu&logoColor=white" alt="GNU" height="40">
+  <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=make&logoColor=white" alt="Make" height="40">
 </p>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2> All of Them </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -183,12 +187,12 @@
 </details>
 
 
-## Recent Contributions & Commit History Snake
+## 🌟 Recent Contributions & Commit History Snake
 
 ### 📈 Activity Graph 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=0000FF&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=FF0000&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
   </a>
 </div>
 
