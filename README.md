@@ -63,22 +63,25 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
   <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
-
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
+  
   <!-- 数据库 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="40">
 
   <!-- 开发工具 -->
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
   <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=make&logoColor=white" alt="Make" height="40">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" height="40">
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="40">
+  
   <!-- 科学计算与机器学习 -->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
   <img src="https://img.shields.io/badge/TensorFlow-F7B500?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="40">
+
 
   <!-- 操作系统 -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
