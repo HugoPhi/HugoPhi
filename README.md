@@ -55,32 +55,47 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
+  <!-- 编程语言 -->
   <img src="https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white" alt="Python" height="40">
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
+  <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
+
+  <!-- 数据库 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="40">
+
+  <!-- 开发工具 -->
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
+  <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=make&logoColor=white" alt="Make" height="40">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" height="40">
+
+  <!-- 科学计算与机器学习 -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
   <img src="https://img.shields.io/badge/TensorFlow-F7B500?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="40">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="40">
+
+  <!-- 操作系统 -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40">
+
+  <!-- 硬件与嵌入式 -->
+  <img src="https://img.shields.io/badge/RISC--V-001E2B?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" height="40">
   <img src="https://custom-icon-badges.demolab.com/badge/FPGA-6D2C91?style=flat-square&logo=cpu&logoColor=white" alt="FPGA" height="40">
 
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="40">
-  <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="40">
-  <img src="https://img.shields.io/badge/RISC--V-001E2B?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" height="40">
+  <!-- 文档与排版 -->
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
 
+  <!-- 开源与社区 -->
   <img src="https://img.shields.io/badge/GNU-000000?style=flat-square&logo=gnu&logoColor=white" alt="GNU" height="40">
-  <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=make&logoColor=white" alt="Make" height="40">
 </p>
 
+
 <details> 
-  <summary><h2> All of Them </h2></summary>
+  <summary><h2>Details</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
