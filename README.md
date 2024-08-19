@@ -33,7 +33,7 @@
 ## ✨ GitHub Stats & Languages
 <p align="center">
   <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&border_color=000000" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=make%20notebook&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20notebook&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
 </p>
 
 
