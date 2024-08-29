@@ -39,7 +39,7 @@
 
 ## 💻 My Latest Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="Gesture Data Collection"></a>
   <a href="https://github.com/HugoPhi/IEEE754_RISCV_ASM"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=IEEE754_RISCV_ASM&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="IEEE754 RISCV ASM"></a>
   <a href="https://github.com/HugoPhi/SIMCPU-RISCV"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=SIMCPU-RISCV&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="SIMCPU RISCV"></a>
