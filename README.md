@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
 
   <!-- 开源与社区 -->
-  <img src="https://img.shields.io/badge/GNU-000000?style=flat-square&logo=gnu&logoColor=white" alt="GNU" height="40">
+  <img src="https://img.shields.io/badge/GCC-000000?style=flat-square&logo=gnu&logoColor=white" alt="GCC" height="40">
 </p>
 
 
