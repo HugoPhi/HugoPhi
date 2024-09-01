@@ -238,7 +238,7 @@
   <a href="https://github.com/zmr66z6xx6" target="_blank">
     <img src="https://github.com/zmr66z6xx6.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
-  <a href="https://github.com/flaash-z" target="_blank">
+  <a href="https://github.com/flash-z" target="_blank">
     <img src="https://github.com/flash-z.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
   <!-- 继续添加其他朋友 -->
