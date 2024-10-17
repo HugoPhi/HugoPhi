@@ -36,7 +36,7 @@
   <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
 </p>
 
-
+<!--
 ## 💻 My Latest Projects
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -51,7 +51,7 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
   </a>
 </div>
-
+-->
 
 
 
