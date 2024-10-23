@@ -34,12 +34,14 @@
 
 <p align="center">
   <!-- 浅色模式下显示 -->
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages" />
-
+  <!-- 
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=default&bg_color=00000000#gh-light-mode-only" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=default&bg_color=00000000#gh-light-mode-only" alt="Top Languages" />
+  --> 
+  
   <!-- 深色模式下显示 -->
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon#gh-dark-mode-only" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=neon#gh-dark-mode-only" alt="Top Languages" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon&bg_color=00000000#gh-dark-mode-only" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=neon&bg_color=00000000#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 
