@@ -1,8 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+HugoPhi!" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Yunming+Hu!">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=FFFFFF&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Yunming+Hu!">
+      <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+HugoPhi!" alt="Typing SVG" />
+    </picture>
   </a>
 </h1>
+
+
 
 <!-- Social Media Badges -->
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/HugoPhi)
@@ -11,48 +17,102 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
 
-
 ## 🎯 I'm a Computer Science Student!
 
-<!--
-<img src="./assets/Bl3b08M5pL.png" align="right" width="270" style="border-radius: 10px; margin: 0 15px 15px 0;"/>
--->
+- **🎓 I'm focused on:**
+  - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR). ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
+  - 🛠️ Robotics and Ubuntu systems, where I have a deep interest and ongoing exploration. ![Robotics Icon](https://img.shields.io/badge/Robotics-2E8B57?style=flat&logo=ubuntu&logoColor=white)
+  - 📊 Numerical computing and optimization algorithms, with a focus on advanced techniques and applications. ![Optimization Icon](https://img.shields.io/badge/Optimization-00008B?style=flat&logo=python&logoColor=white)
+  - 💻 Researching and developing machine learning and deep learning algorithms to push the boundaries of AI. ![ML/DL Icon](https://img.shields.io/badge/ML%2FDL-FF6F61?style=flat&logo=keras&logoColor=white)
+  - 🎨 UI design, where I enjoy creating intuitive and aesthetically pleasing user interfaces. ![UI Design Icon](https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=adobe-xd&logoColor=white)
 
-- **🎓 I am a Computer Science and Technology student dedicated to:**
-  - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR).  ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
-  - 🛠️ Robotics and Ubuntu systems, where I have a deep interest and ongoing exploration.  ![Robotics Icon](https://img.shields.io/badge/Robotics-2E8B57?style=flat&logo=ubuntu&logoColor=white)
-  - 📊 Numerical computing and optimization algorithms, with a focus on advanced techniques and applications.  ![Optimization Icon](https://img.shields.io/badge/Optimization-00008B?style=flat&logo=python&logoColor=white)
-  - 💻 Researching and developing machine learning and deep learning algorithms to push the boundaries of AI.  ![ML/DL Icon](https://img.shields.io/badge/ML%2FDL-FF6F61?style=flat&logo=keras&logoColor=white)
-  - 🎨 UI design, where I enjoy creating intuitive and aesthetically pleasing user interfaces.  ![UI Design Icon](https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=adobe-xd&logoColor=white)
-
-- **📅 My 2024 Goals:**
+- **📅 Goals for 2024:**
   - 🚀 Learn the ROS2 system and conduct robotics-related research.
   - 📚 Further deepen my expertise in my current research areas.
 
-
 ## ✨ GitHub Stats & Languages
+
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&border_color=000000" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&border_color=000000" alt="Top Languages" />
+  <!-- 浅色模式下显示 -->
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages" />
+
+  <!-- 深色模式下显示 -->
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon#gh-dark-mode-only" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=neon#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 
 ## 💻 My Latest Projects
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github.com/HugoPhi/gestureDataCollection"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="Gesture Data Collection"></a>
-  <a href="https://github.com/HugoPhi/HGRLabs"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="IEEE754 RISCV ASM"></a>
-  <a href="https://github.com/HugoPhi/MachineLearningLabs"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="SIMCPU RISCV"></a>
-  <a href="https://github.com/HugoPhi/NCOTLabs"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&bg_color=FFFFFF&title_color=000000&hide_border=false&icon_color=4B3621&border_color=000000&show_icons=true" alt="NCOT Labs"></a>
+
+<p align="left">
+  <!-- 项目 1 -->
+  <a href="https://github.com/HugoPhi/gestureDataCollection">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=neon&show_icons=true&hide_border=false">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
+    </picture>
+  </a>
+
+  <!-- 项目 2 -->
+  <a href="https://github.com/HugoPhi/HGRLabs">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=neon&show_icons=true&hide_border=false">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
+    </picture>
+  </a>
+
+  <!-- 项目 3 -->
+  <a href="https://github.com/HugoPhi/MachineLearningLabs">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=neon&show_icons=true&hide_border=false">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
+    </picture>
+  </a>
+
+  <!-- 项目 4 -->
+  <a href="https://github.com/HugoPhi/NCOTLabs">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=neon&show_icons=true&hide_border=false">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false">
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
+    </picture>
+  </a>
 </p>
 
+<!-- 所有项目 -->
 <div align="left">
   <a href="https://github.com/HugoPhi?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFFFFF?style=for-the-badge&logoColor=000000&logo=repo" width="278"/>
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=FFFFFF&logo=repo" width="278"/>
+    </picture>
   </a>
 </div>
-
-
 
 
 ## 🛠️ Languages and Tools:
@@ -100,6 +160,7 @@
   <!-- 开源与社区 -->
   <img src="https://img.shields.io/badge/GCC-000000?style=flat-square&logo=gnu&logoColor=white" alt="GCC" height="40">
 </p>
+
 
 
 <details> 
@@ -210,42 +271,98 @@
 </details>
 
 
-## 🌟 Recent Contributions & Commit History Snake
 
-### 📈 Activity Graph 
+## 🌟 Recent Contributions & Commit History
+
+### 📈 Activity Graph
+<!-- 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=FF0000&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
   </a>
 </div>
+-->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <!-- 深色模式 -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=0d1117&color=ffffff&line=58a6ff&point=444c56&area=true&hide_border=true">
+      <!-- 浅色模式 -->
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=ffffff&color=000000&line=0055ff&point=0055ff&area=true&hide_border=true">
+      <!-- 默认图片 -->
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=ffffff&color=000000&line=0055ff&point=0055ff&area=true&hide_border=true" 
+        alt="HugoPhi's GitHub Activity Graph" />
+    </picture>
+  </a>
+</div>
 
-### 🐍 Contribution Snake 
+
+### 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+
+
 ## 👥 My Best Friends
-<div align="left">
-  <a href="https://github.com/SimonYoungCN" target="_blank">
-    <img src="https://github.com/SimonYoungCN.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/potatoQi" target="_blank">
-    <img src="https://github.com/potatoQi.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/ssy-small-white" target="_blank">
-    <img src="https://github.com/ssy-small-white.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/zmr66z6xx6" target="_blank">
-    <img src="https://github.com/zmr66z6xx6.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/flash-z" target="_blank">
-    <img src="https://github.com/flash-z.png" width="50" height="50" alt="Friend 3" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <!-- 继续添加其他朋友 -->
-</div>
+<!-- FRIENDS-LIST:START -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SimonYoungCN">
+        <img src="https://avatars.githubusercontent.com/SimonYoungCN?v=4" width="100px;" alt="SimonYoungCN"/>
+        <br />
+        <sub><b>Simon Young</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+    <td align="center">
+      <a href="https://github.com/potatoQi">
+        <img src="https://avatars.githubusercontent.com/potatoQi?v=4" width="100px;" alt="potatoQi"/>
+        <br />
+        <sub><b>Potato Qi</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+    <td align="center">
+      <a href="https://github.com/ssy-small-white">
+        <img src="https://avatars.githubusercontent.com/ssy-small-white?v=4" width="100px;" alt="ssy-small-white"/>
+        <br />
+        <sub><b>SSY Small White</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+    <td align="center">
+      <a href="https://github.com/zmr66z6xx6">
+        <img src="https://avatars.githubusercontent.com/zmr66z6xx6?v=4" width="100px;" alt="zmr66z6xx6"/>
+        <br />
+        <sub><b>ZMR66Z6XX6</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+    <td align="center">
+      <a href="https://github.com/flash-z">
+        <img src="https://avatars.githubusercontent.com/flash-z?v=4" width="100px;" alt="flash-z"/>
+        <br />
+        <sub><b>Flash Z</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+  </tr>
+</table>
 
-
-
+<!-- FRIENDS-LIST:END -->
 
 
 
@@ -254,19 +371,6 @@
 <br>
 <br>
 <br>
-
-
-<!--
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=KaiTi&weight=900&size=30&pause=1000&color=F71D23&width=435&lines=%E8%A1%8C%E5%8D%83%E9%87%8C%EF%BC%8C%E8%87%B4%E5%B9%BF%E5%A4%A7%E3%80%82" alt="行千里，致广大。">
-  </a>
-</p>
--->
-
 
 <br></details>
 <img src="https://imgur.com/rilHVxA.png"/>
-
-
-
