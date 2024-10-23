@@ -47,7 +47,7 @@
 
 ## 💻 My Latest Projects
 
-<p align="left">
+<p align="center">
   <!-- 项目 1 -->
   <a href="https://github.com/HugoPhi/gestureDataCollection">
     <picture>
