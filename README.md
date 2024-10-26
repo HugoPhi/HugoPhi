@@ -290,7 +290,7 @@
       <!-- 深色模式 -->
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=0d1117&color=ffffff&line=f5479c&point=12baaa&area=true&hide_border=true">
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=000000&color=ffffff&line=f5479c&point=12baaa&area=true&hide_border=true">
       <!-- 浅色模式 -->
       <source 
         media="(prefers-color-scheme: light)" 
