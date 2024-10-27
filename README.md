@@ -47,7 +47,7 @@
 
 ## 💻 My Latest Projects
 
-<p align="center">
+<p align="left">
   <!-- 项目 1 -->
   <a href="https://github.com/HugoPhi/gestureDataCollection">
     <picture>
@@ -57,7 +57,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
     </picture>
   </a>
 
@@ -70,7 +70,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
     </picture>
   </a>
 
@@ -83,7 +83,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
     </picture>
   </a>
 
@@ -96,7 +96,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
     </picture>
   </a>
 </p>
