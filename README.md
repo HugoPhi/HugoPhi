@@ -8,14 +8,20 @@
   </a>
 </h1>
 
-
-
 <!-- Social Media Badges -->
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/HugoPhi)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/胡芸铭)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:hugonelson07@outlook.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
+[![GitHub 总星数](https://img.shields.io/github/stars/HugoPhi?style=social)](https://github.com/HugoPhi)
+[![Google 邮箱](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Comptition-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yunminghu)
+[![My Blog](https://img.shields.io/badge/Blog-My%20Blog-red?style=flat&logo=about.me&logoColor=white)](https://HugoPhi.github.io)
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
+
+<!-- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/胡芸铭)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:hugonelson07@outlook.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com) -->
+
+</br>
+
 
 ## 🎯 I'm a Computer Science Student!
 
@@ -36,18 +42,18 @@
   <!-- 浅色模式下显示 -->
   <!-- 
   <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=default&bg_color=00000000#gh-light-mode-only" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=default&bg_color=00000000#gh-light-mode-only" alt="Top Languages" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML,CSS&show_icons=true&layout=donut&hide_border=true&theme=default&bg_color=00000000#gh-light-mode-only" alt="Top Languages" />
   --> 
   
   <!-- 深色模式下显示 -->
   <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon&bg_color=00000000#gh-dark-mode-only" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua&show_icons=true&layout=donut&hide_border=true&theme=neon&bg_color=00000000#gh-dark-mode-only" alt="Top Languages" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML,CSS&show_icons=true&layout=donut&hide_border=true&theme=neon&bg_color=00000000#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 
 ## 💻 My Latest Projects
 
-<p align="left">
+<p align="center">
   <!-- 项目 1 -->
   <a href="https://github.com/HugoPhi/gestureDataCollection">
     <picture>
@@ -57,7 +63,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
     </picture>
   </a>
 
@@ -70,7 +76,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
     </picture>
   </a>
 
@@ -83,7 +89,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
     </picture>
   </a>
 
@@ -96,7 +102,7 @@
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
     </picture>
   </a>
 </p>
