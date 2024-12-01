@@ -350,10 +350,10 @@
       <!-- 您可以在这里添加描述或标签 --> 
     </td>
     <td align="center">
-      <a href="https://github.com/zmr66z6xx6">
-        <img src="https://avatars.githubusercontent.com/zmr66z6xx6?v=4" width="100px;" alt="zmr66z6xx6"/>
+      <a href="https://github.com/MonrenZheng">
+        <img src="https://avatars.githubusercontent.com/MonrenZheng?v=4" width="100px;" alt="MonrenZheng"/>
         <br />
-        <sub><b>ZMR66Z6XX6</b></sub>
+        <sub><b>MonrenZheng</b></sub>
       </a>
       <br />
       <!-- 您可以在这里添加描述或标签 -->
@@ -363,6 +363,15 @@
         <img src="https://avatars.githubusercontent.com/flash-z?v=4" width="100px;" alt="flash-z"/>
         <br />
         <sub><b>Flash Z</b></sub>
+      </a>
+      <br />
+      <!-- 您可以在这里添加描述或标签 -->
+    </td>
+    <td align="center">
+      <a href="https://github.com/Haru-Yuk1">
+        <img src="https://avatars.githubusercontent.com/Haru-Yuk1?v=4" width="100px;" alt="Haru-Yuk1"/>
+        <br />
+        <sub><b>LouYang</b></sub>
       </a>
       <br />
       <!-- 您可以在这里添加描述或标签 -->
