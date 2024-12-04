@@ -1,12 +1,23 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Do+Great+Things.">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=FFFFFF&vCenter=true&width=435&height=70&lines=Do+Great+Things.">
+      <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Do+Great+Things." alt="Typing SVG" />
+    </picture>
+  </a>
+</h1>
+<!--
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Yunming+Hu!">
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=FFFFFF&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Yunming+Hu!">
       <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=000000&vCenter=true&width=435&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+HugoPhi!" alt="Typing SVG" />
     </picture>
   </a>
 </h1>
+-->
 
 <!-- Social Media Badges -->
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/HugoPhi)
