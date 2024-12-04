@@ -381,7 +381,7 @@
       <a href="https://github.com/Gan-Li">
         <img src="https://avatars.githubusercontent.com/Gan-Li?v=4" width="100px;" alt="Gan-Li"/>
         <br />
-        <sub><b>LouYang</b></sub>
+        <sub><b>Mr. Chou</b></sub>
       </a>
       <br />
       <!-- 您可以在这里添加描述或标签 -->
