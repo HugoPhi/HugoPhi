@@ -1,19 +1,12 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <picture>
       <source
         media="(prefers-color-scheme: light)"
-        srcset="
-          https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.
-        "
-      />
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.">
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="
-          https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.
-        "
-      />
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.">
       <img
         src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things."
         alt="Typing SVG"
@@ -160,8 +153,12 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" height="40">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" height="40">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Lua" height="40">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="40">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="40">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="40">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="40">
 
-
+  
   <!-- 数据库 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
 
