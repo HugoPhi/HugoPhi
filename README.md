@@ -28,6 +28,7 @@
 -->
 
 <!-- Social Media Badges -->
+
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/HugoPhi)
 [![GitHub 总星数](https://img.shields.io/github/stars/HugoPhi?style=social)](https://github.com/HugoPhi)
 [![Google 邮箱](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
@@ -41,16 +42,18 @@
 
 </br>
 
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif?cid=ecf05e47fs9gnrr0j3yytqxf94uhq55zgqf16tew3egg24n8&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="./assets/ginger-9997.gif">
 
 📚 **More Articles**
+
 - Blog: https://HugoPhi.github.io
 - HomePage: https://ohpostintm3.top
 
-📧 **Contact Me**  
+📧 **Contact Me**
+
 - Outlook: hugonelson07@outlook.com
 - Google : hugonelsonm3@gmail.com
-- QQ     : 2678859151@qq.com
+- QQ : 2678859151@qq.com
 
 </br>
 </br>
@@ -58,6 +61,7 @@
 ## 🎯 I'm a Computer Science Student!
 
 - **🎓 I'm focused on:**
+
   - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR). ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
   - 🛠️ Robotics and Ubuntu systems, where I have a deep interest and ongoing exploration. ![Robotics Icon](https://img.shields.io/badge/Robotics-2E8B57?style=flat&logo=ubuntu&logoColor=white)
   - 📊 Numerical computing and optimization algorithms, with a focus on advanced techniques and applications. ![Optimization Icon](https://img.shields.io/badge/Optimization-00008B?style=flat&logo=python&logoColor=white)
@@ -90,8 +94,8 @@
   </a>
 </div>
 
-
 ## 🛠️ Languages and Tools:
+
 <p align="left">
   <!-- 编程语言 -->
   <img src="https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white" alt="Python" height="40">
@@ -107,7 +111,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="40">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="40">
 
-  
   <!-- 数据库 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
 
@@ -125,7 +128,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="40">
 
-
   <!-- 操作系统 -->
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40">
@@ -137,8 +139,6 @@
   <!-- 文档与排版 -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
 </p>
-
-
 
 <details> 
   <summary><h2>More to be done</h2></summary>
@@ -247,12 +247,11 @@
   </p>
 </details>
 
-
-
 ## 🌟 Recent Contributions & Commit History
 
 ### 📈 Activity Graph
-<!-- 
+
+<!--
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&theme=github&bg_color=FFFFFF&color=000000&line=FF0000&point=4B3621&area=true&hide_border=false&border_color=000000" alt="HugoPhi's GitHub Activity Graph" />
@@ -278,16 +277,14 @@
   </a>
 </div>
 
-
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
-
 ## 👥 My Best Friends
+
 <!-- FRIENDS-LIST:START -->
 <table>
   <tr>
@@ -360,8 +357,6 @@
 </table>
 
 <!-- FRIENDS-LIST:END -->
-
-
 
 <br>
 <br>
