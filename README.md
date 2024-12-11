@@ -41,11 +41,11 @@
 
 </br>
 
-📚 More Articles
+📚 **More Articles**
 - Blog: https://HugoPhi.github.io
 - HomePage: https://ohpostintm3.top
 
-📧 Contact Me  
+📧 **Contact Me**  
 - Outlook: hugonelson07@outlook.com
 - Google : hugonelsonm3@gmail.com
 
