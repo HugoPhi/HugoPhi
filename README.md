@@ -71,8 +71,8 @@
 ## ✨ GitHub Stats & Languages
 
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon&bg_color=00000000&rank_icon=github" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML,CSS&show_icons=true&layout=donut&hide_border=true&theme=neon&bg_color=00000000" alt="Top Languages" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=ambient_gradient&rank_icon=github" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML,CSS&show_icons=true&layout=donut&hide_border=true&theme=ambient_gradient" alt="Top Languages" />
 </p>
 
 <!-- 所有项目 -->
