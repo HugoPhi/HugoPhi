@@ -60,17 +60,7 @@
 
 ## 🎯 I'm a Computer Science Student!
 
-- **🎓 I'm focused on:**
 
-  - 🤖 Deploying motion and gesture recognition on a smartwatch as part of my research in Human Activity Recognition (HAR). ![HAR Icon](https://img.shields.io/badge/HAR-4B3621?style=flat&logo=google&logoColor=white)
-  - 🛠️ Robotics and Ubuntu systems, where I have a deep interest and ongoing exploration. ![Robotics Icon](https://img.shields.io/badge/Robotics-2E8B57?style=flat&logo=ubuntu&logoColor=white)
-  - 📊 Numerical computing and optimization algorithms, with a focus on advanced techniques and applications. ![Optimization Icon](https://img.shields.io/badge/Optimization-00008B?style=flat&logo=python&logoColor=white)
-  - 💻 Researching and developing machine learning and deep learning algorithms to push the boundaries of AI. ![ML/DL Icon](https://img.shields.io/badge/ML%2FDL-FF6F61?style=flat&logo=keras&logoColor=white)
-  - 🎨 UI design, where I enjoy creating intuitive and aesthetically pleasing user interfaces. ![UI Design Icon](https://img.shields.io/badge/UI_Design-FF69B4?style=flat&logo=adobe-xd&logoColor=white)
-
-- **📅 Goals for 2024:**
-  - 🚀 Learn the ROS2 system and conduct robotics-related research.
-  - 📚 Further deepen my expertise in my current research areas.
 
 ## ✨ GitHub Stats & Languages
 
