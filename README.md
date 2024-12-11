@@ -41,6 +41,8 @@
 
 </br>
 
+<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif?cid=ecf05e47fs9gnrr0j3yytqxf94uhq55zgqf16tew3egg24n8&rid=giphy.gif&ct=g">
+
 📚 **More Articles**
 - Blog: https://HugoPhi.github.io
 - HomePage: https://ohpostintm3.top
@@ -48,6 +50,7 @@
 📧 **Contact Me**  
 - Outlook: hugonelson07@outlook.com
 - Google : hugonelsonm3@gmail.com
+- QQ     : 2678859151@qq.com
 
 </br>
 </br>
@@ -68,65 +71,8 @@
 ## ✨ GitHub Stats & Languages
 
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon&bg_color=00000000" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="58%" src="https://github-readme-stats.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=neon&bg_color=00000000&rank_icon=github" alt="HugoPhi's GitHub Stats" />
   <img align="top" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML,CSS&show_icons=true&layout=donut&hide_border=true&theme=neon&bg_color=00000000" alt="Top Languages" />
-</p>
-
-
-## 💻 My Latest Projects
-
-<p align="center">
-  <!-- 项目 1 -->
-  <a href="https://github.com/HugoPhi/gestureDataCollection">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=neon&show_icons=true&hide_border=false">
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=gestureDataCollection&theme=default&show_icons=true&hide_border=false" alt="Gesture Data Collection">
-    </picture>
-  </a>
-
-  <!-- 项目 2 -->
-  <a href="https://github.com/HugoPhi/HGRLabs">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=neon&show_icons=true&hide_border=false">
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=HGRLabs&theme=default&show_icons=true&hide_border=false" alt="HGRLabs">
-    </picture>
-  </a>
-
-  <!-- 项目 3 -->
-  <a href="https://github.com/HugoPhi/MachineLearningLabs">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=neon&show_icons=true&hide_border=false">
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=MachineLearningLabs&theme=default&show_icons=true&hide_border=false" alt="Machine Learning Labs">
-    </picture>
-  </a>
-
-  <!-- 项目 4 -->
-  <a href="https://github.com/HugoPhi/NCOTLabs">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=neon&show_icons=true&hide_border=false">
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HugoPhi&repo=NCOTLabs&theme=default&show_icons=true&hide_border=false" alt="NCOT Labs">
-    </picture>
-  </a>
 </p>
 
 <!-- 所有项目 -->
@@ -190,15 +136,12 @@
 
   <!-- 文档与排版 -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
-
-  <!-- 开源与社区 -->
-  <img src="https://img.shields.io/badge/GCC-000000?style=flat-square&logo=gnu&logoColor=white" alt="GCC" height="40">
 </p>
 
 
 
 <details> 
-  <summary><h2>Details</h2></summary>
+  <summary><h2>More to be done</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
