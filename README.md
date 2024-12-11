@@ -137,7 +137,7 @@
 </p>
 
 <details> 
-  <summary><h2>More to be done</h2></summary>
+  <summary><h2>More details</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
