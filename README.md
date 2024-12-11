@@ -60,7 +60,7 @@
   - ✨ Research on **cross-user HAR strategies**, including transfer learning, knowledge distillation, and how to enhance their effectiveness using LLMs.
   - **LLM fine-tuning** techniques and **prompt engineering** applications. I believe this is very important in the modern information industry.
   - Further learning of traditional frontend technologies to build better frontend projects, such as CSS, JS, and TS <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a><a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>.
-  - Complete and promote the projects listed in [Appendix A](#appendix-a-table-of-my-todo-projects--their-process).
+  - Complete and promote the projects listed in [Appendix A](#️-appendix-a-table-of-my-todo-projects--their-process).
   - Study **machine learning theory**.
   - Rewrite some **Python projects in Rust**, such as web and scientific computing projects (I won’t rewrite AI projects because I believe Python is the best language for AI).
   - If I complete the above tasks, I will try to learn the **advanced features of C23**.  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
