@@ -38,7 +38,7 @@ body:
         - Usage of ubuntu
         - A bug🐞 of a program
         - Some topic you want to discuss with me
-      default: I do not know!
+      default: 0
     validations:
       required: false
   - type: textarea
