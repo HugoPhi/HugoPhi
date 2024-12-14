@@ -64,4 +64,4 @@ body:
       label: Are you in a hurry to solve this problem?
       options:
         - label: "Yes"
-          required: true
+          required: false
