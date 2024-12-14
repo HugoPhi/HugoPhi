@@ -39,7 +39,7 @@
 - Google : hugonelsonm3@gmail.com
 - QQ : 2678859151@qq.com
 
-⁉️ **Question for me?**    
+⁉️ **Questions for me?**    
 
 > feel free for asking me any question, I will reply you if I'm free.    
 > [I have a question!](https://github.com/HugoPhi/HugoPhi/issues/new/choose)
