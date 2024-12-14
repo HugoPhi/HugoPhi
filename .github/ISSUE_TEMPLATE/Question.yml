@@ -1,0 +1,57 @@
+name: Bug Report
+description: Ask me some questions
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for asking! I can't promise I'll answer everything perfectly, but I'll do my best to help you out!
+  - type: input
+    id: contact
+    attributes:
+      label: 🤝 Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com, or a phone number.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 🤔 What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: question_type
+    attributes:
+      label: 🔥 Question Type
+      multiple: true
+      description: What kind of question it is?
+      options:
+        - Mathematic
+        - Mathine Learning
+        - About my project (no! \doge)
+        - Asking for recommends about software
+        - Usage of ubuntu
+        - A bug🐞 of a program
+        - Some topic you want to discuss with me
+      default: I do not know!
+    validations:
+      required: false
+  - type: textarea
+    id: expected_answer
+    attributes:
+      label: 🗃️ Expected answer. 
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
