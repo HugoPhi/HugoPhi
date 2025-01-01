@@ -31,7 +31,7 @@
 📚 **More Articles**
 
 - Blog: https://HugoPhi.github.io
-- HomePage: https://ohpostintm3.top
+- HomePage: https://hugophi.com
 
 📧 **Contact Me**
 
