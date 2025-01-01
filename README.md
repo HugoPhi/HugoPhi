@@ -39,9 +39,9 @@
 - Google : hugonelsonm3@gmail.com
 - QQ : 2678859151@qq.com
 
-⁉️ **Questions for me?**    
+⁉️ **Questions for me?**
 
-> feel free for asking me any question, I will reply you if I'm free.    
+> feel free for asking me any question, I will reply you if I'm free.\
 > [I have a question!](https://github.com/HugoPhi/HugoPhi/issues/new/choose)
 
 </br>
@@ -55,7 +55,7 @@
 - ✨ Development of **WearOS applications** on smartwatches, including data collection and application deployment, mainly focusing on downstream tasks in my HAR research. <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 - Study of **machine learning algorithm theory** and their implementation, with detailed references in my blog.
 - I enjoy researching programming languages like **Rust**, **Golang** & others and their advanced features because they always bring the pure joy of programming. <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
-- Beautification of **Vim & Neovim** and some aesthetically pleasing frontend projects, even though they are rarely known or used, this is one of my personal favorite aspects. This is my config on [dotfile](https://dotfyle.com/HugoPhi).    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avim"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
+- Beautification of **Vim & Neovim** and some aesthetically pleasing frontend projects, even though they are rarely known or used, this is one of my personal favorite aspects. This is my config on [dotfile](https://dotfyle.com/HugoPhi). <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avim"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
 - Additionally, I sometimes pay attention to **numerical computation and optimization theory**, which have significant applications in engineering and machine learning.
 
 **📅 2025 Goals**
@@ -63,7 +63,7 @@
 - ✨ Research on **cross-user HAR strategies**, including transfer learning, knowledge distillation, and how to enhance their effectiveness using LLMs.
 - **LLM fine-tuning** techniques and **prompt engineering** applications. I believe this is very important in the modern information industry.
 - Further learning of traditional frontend technologies to build better frontend projects, such as CSS, JS, and TS. <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>.
-- Complete and promote the projects listed in [Appendix A](#️-appendix-a-table-of-my-todo-projects--their-process)
+- Complete and promote the projects listed in [Appendix A](#%EF%B8%8F-appendix-a-table-of-my-todo-projects--their-process)
 - Study **machine learning theory**.
 - Rewrite some **Python projects in Rust**, such as web and scientific computing projects (I won’t rewrite AI projects because I believe Python is the best language for AI).
 - If I complete the above tasks, I will try to learn the **advanced features of C23**. <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -76,6 +76,7 @@
 </p>
 
 <!-- 所有项目 -->
+
 <div align="left">
   <a href="https://github.com/HugoPhi?tab=repositories&sort=stargazers">
     <picture>
@@ -107,42 +108,48 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="40">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="40">
 
-  <!-- 数据库 -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
+<!-- 数据库 -->
 
-  <!-- 开发工具 -->
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
+
+<!-- 开发工具 -->
+
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" height="40">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="40">
   <img src="https://img.shields.io/badge/Make-427819?style=flat-square&logo=make&logoColor=white" alt="Make" height="40">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" height="40">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="40">
-  
-  <!-- 科学计算与机器学习 -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
+
+<!-- 科学计算与机器学习 -->
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="40">
   <img src="https://img.shields.io/badge/TensorFlow-F7B500?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" height="40">
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="40">
 
-  <!-- 操作系统 -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
+<!-- 操作系统 -->
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40">
 
-  <!-- 硬件与嵌入式 -->
-  <img src="https://img.shields.io/badge/RISC--V-001E2B?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" height="40">
+<!-- 硬件与嵌入式 -->
+
+<img src="https://img.shields.io/badge/RISC--V-001E2B?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" height="40">
   <img src="https://custom-icon-badges.demolab.com/badge/FPGA-6D2C91?style=flat-square&logo=cpu&logoColor=white" alt="FPGA" height="40">
 
-  <!-- 文档与排版 -->
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
+<!-- 文档与排版 -->
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="40">
 </p>
 
 <details> 
   <summary><h2>More details</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming and Markup Languages</h3>
 
-  <p>
+<p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -169,9 +176,9 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Frameworks and Libraries</h3>
 
-  <p>
+<p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -199,9 +206,9 @@
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+<h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p>
+<p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -215,9 +222,9 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+<h3>💻 Software and Tools</h3>
 
-  <p>
+<p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -278,18 +285,16 @@
   </a>
 </div>
 
-
-
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
 ## 👥 My Best Friends
 
 <!-- FRIENDS-LIST:START -->
+
 <table>
   <tr>
     <td align="center">
@@ -366,8 +371,7 @@
       <!-- 您可以在这里添加描述或标签 -->
     </td>
 
-  
-  </tr>
+</tr>
 </table>
 
 <!-- FRIENDS-LIST:END -->
@@ -384,17 +388,17 @@
 
 ## 🖇️ Appendix A: Table of my Todo projects & their process
 
-| project                                                                  | description                                                                        | process | Tag                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| project | description | process | Tag |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚡ [ChatApp](https://github.com/HugoPhi/ChatApp)                         | CQU“计算机网络”课程设计                                                            | 70%     | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> |
-| 💫 [stl.rust](https://github.com/HugoPhi/stl.rust) | a rust data structure lib for learning including test                              | 1/36    | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 🔥 [ml](https://github.com/HugoPhi/ml) | MachineLearning Models from scratch by numpy                                       | 10%     | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Anumpy"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amatplotlib"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-003B57.svg?logo=matplotlib&logoColor=white"></a>                                                                                                                                                                   |
-| 🌀 [opcal](https://github.com/HugoPhi/opcal)                       | Numberical Calcualtion&Optimization                                                | 50%     | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 🌪️ [quick-har](https://github.com/HugoPhi/quick-har)                                 | A frame work for ML/DL of HAR                                                      | 0%      | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atensorboard"><img alt="TensorBoard" src="https://img.shields.io/badge/TensorBoard-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apytorch"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ⛈️ [mac-gnome](https://github.com/HugoPhi/mac-gnome)                       | A Gnome Config makes your Ubuntu looks like MacOS                                  | 0%      | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agnome"><img alt="Gnome" src="https://img.shields.io/badge/Gnome-2C1A1A.svg?logo=gnome&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                           |
-| 🍪 [riscv-cpu](https://github.com/HugoPhi/riscv-cpu)               | sim-core realized in verilog based on RISCV that can simulate the behaviour of CPU | 30%     | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asystemverilog"><img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-004C54.svg?logo=systemverilog&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Averilog"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-800000.svg?logo=verilog&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 🌕 [float-ieee754](https://github.com/HugoPhi/float-ieee754)     | CQU“计算机组成原理”课程设计                                                        | 90%     | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aqume"><img alt="QUME" src="https://img.shields.io/badge/QUME-4A90E2.svg?logo=q&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ariscv"><img alt="RISCV" src="https://img.shields.io/badge/RISCV-42A5F5.svg?logo=riscv&logoColor=white"></a>                                                                                                                                                                |
-| 🪄 [nvim](https://github.com/HugoPhi/nvim)                               | a beautiful neovim                                                                   | Done    | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ⚡ [ChatApp](https://github.com/HugoPhi/ChatApp) | CQU“计算机网络”课程设计 | 70% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aflask"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> |
+| 💫 [stl.rust](https://github.com/HugoPhi/stl.rust) | a rust data structure lib for learning including test | 1/36 | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a> |
+| 🔥 [ml](https://github.com/HugoPhi/ml) | MachineLearning Models from scratch by numpy | 10% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Anumpy"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amatplotlib"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-003B57.svg?logo=matplotlib&logoColor=white"></a> |
+| 🌀 [opcal](https://github.com/HugoPhi/opcal) | Numberical Calcualtion&Optimization | 50% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> |
+| 🌪️ [quick-har](https://github.com/HugoPhi/quick-har) | A frame work for ML/DL of HAR | 0% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atensorboard"><img alt="TensorBoard" src="https://img.shields.io/badge/TensorBoard-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apytorch"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a> |
+| ⛈️ [mac-gnome](https://github.com/HugoPhi/mac-gnome) | A Gnome Config makes your Ubuntu looks like MacOS | 0% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Agnome"><img alt="Gnome" src="https://img.shields.io/badge/Gnome-2C1A1A.svg?logo=gnome&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> |
+| 🍪 [riscv-cpu](https://github.com/HugoPhi/riscv-cpu) | sim-core realized in verilog based on RISCV that can simulate the behaviour of CPU | 30% | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asystemverilog"><img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-004C54.svg?logo=systemverilog&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Averilog"><img alt="Verilog" src="https://img.shields.io/badge/Verilog-800000.svg?logo=verilog&logoColor=white"></a> |
+| 🌕 [float-ieee754](https://github.com/HugoPhi/float-ieee754) | CQU“计算机组成原理”课程设计 | Done | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aqume"><img alt="QUME" src="https://img.shields.io/badge/QUME-4A90E2.svg?logo=q&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ariscv"><img alt="RISCV" src="https://img.shields.io/badge/RISCV-42A5F5.svg?logo=riscv&logoColor=white"></a> |
+| 🪄 [nvim](https://github.com/HugoPhi/nvim) | a beautiful neovim | Done | <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aneovim"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a> |
 
 <br>
 <br>
