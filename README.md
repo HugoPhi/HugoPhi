@@ -247,30 +247,45 @@
 
 ### 📈 Activity Graph
 
+<!--
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <picture>
-      <!-- 深色模式 -->
       <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=000000&color=ffffff&line=f5479c&point=12baaa&area=true&hide_border=true">
-      <!-- 浅色模式 -->
       <source 
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=ffffff&color=000000&line=0055ff&point=0055ff&area=true&hide_border=true">
-      <!-- 默认图片 -->
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=HugoPhi&bg_color=ffffff&color=000000&line=0055ff&point=0055ff&area=true&hide_border=true" 
         alt="HugoPhi's GitHub Activity Graph" />
     </picture>
   </a>
 </div>
+-->
+
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
+    <picture>
+      <source 
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoPhi&theme=graywhite">
+      <img 
+        width="80%"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoPhi&theme=highcontrast" 
+        alt="HugoPhi's GitHub Activity Graph" />
+    </picture>
+  </a>
+</div>
+
+
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/HugoPhi/HugoPhi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ## 👥 My Best Friends
 
