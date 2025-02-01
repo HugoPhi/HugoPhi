@@ -30,7 +30,7 @@
 
 📚 **More Articles**
 
-- HomePage: https://hugophi.com
+- Website: https://hugophi.com
 - Blog: https://ohpostintm3.top
 
 📧 **Contact Me**
