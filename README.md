@@ -7,12 +7,12 @@
     <picture>
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.">
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things.">
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things.">
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things.">
       <img
-        src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Do+Great+Things."
+        src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things."
         alt="Typing SVG"
       />
     </picture>
