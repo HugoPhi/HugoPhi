@@ -30,8 +30,8 @@
 
 📚 **More Articles**
 
-- Blog: https://HugoPhi.github.io
 - HomePage: https://hugophi.com
+- Blog: https://ohpostintm3.top
 
 📧 **Contact Me**
 
