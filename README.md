@@ -25,7 +25,6 @@
 [![GitHub 总星数](https://img.shields.io/github/stars/HugoPhi?style=social)](https://github.com/HugoPhi)
 [![Google 邮箱](https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white)](mailto:hugonelsonm3@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Comptition-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yunminghu)
-[![My Blog](https://img.shields.io/badge/Blog-My%20Blog-red?style=flat&logo=about.me&logoColor=white)](https://HugoPhi.github.io)
 ![ViewCount](https://views.whatilearened.today/views/github/HugoPhi/HugoPhi.svg?cache=remove)
 
 </br>
