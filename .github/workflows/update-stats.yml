@@ -3,7 +3,11 @@ name: Update README cards
 on:
   schedule:
     - cron: "0 3 * * *" # 每天凌晨3点自动更新
-  workflow_dispatch: # 允许你手动点击运行
+  workflow_dispatch: # 允许手动点击运行
+
+# 确保 Action 有权限把生成的图片推送到你的仓库
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 确保文件夹存在，否则会报错
       - name: Create profile directory
         run: mkdir -p profile
 
@@ -19,7 +22,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # 注意：options 里的参数要和原 URL 保持一致
           options: username=HugoPhi&show_icons=true&hide_border=true&theme=ambient_gradient&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,8 +29,7 @@ jobs:
       - name: Generate langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: langs
-          # 这里改成了 langs，并且加上了你原来的布局和过滤参数
+          card: top-langs  # 修正这里：必须是 top-langs
           options: username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML&show_icons=true&layout=donut&hide_border=true&theme=ambient_gradient
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
