@@ -88,6 +88,7 @@
 - Outlook: hugonelson07@outlook.com
 - Google : hugonelsonm3@gmail.com
 
+<!--
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details"> 
     <picture>
@@ -102,15 +103,15 @@
     </picture>
   </a>
 </div>
-
+-->
 </br>
 </br>
 
 ## ✨ GitHub Stats & Languages
-
 <p align="center">
-  <img align="top" width="58%" src="https://github-readme-stats-one-eight.vercel.app/api?username=HugoPhi&show_icons=true&hide_border=true&theme=ambient_gradient&rank_icon=rank" alt="HugoPhi's GitHub Stats" />
-  <img align="top" width="39.5%" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=HugoPhi&hide=vim%20script,jupyter%20notebook,lua,HTML&show_icons=true&layout=donut&hide_border=true&theme=ambient_gradient" alt="Top Languages" />
+  <!-- 注意这里的 src 指向的是生成的本地路径 -->
+  <img align="top" width="58%" src="./profile/stats.svg" alt="HugoPhi's GitHub Stats" />
+  <img align="top" width="39.5%" src="./profile/langs.svg" alt="Top Languages" />
 </p>
 
 <!-- 所有项目 -->
