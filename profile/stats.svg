@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yunming Hu's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 153, Total PRs: 36, Total Issues: 23, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 114, Total Commits  (last year) : 114, Total PRs: 36, Total Issues: 23, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 126.9452428574073;
+        stroke-dashoffset: 136.20926607030083;
       }
     }
   
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >153</text>
+      >114</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
